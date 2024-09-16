@@ -1,5 +1,5 @@
 
-# Javascript1
+# Javascript 1
 
 Tugas ini ditunjukan untuk talent Fazztrack agar bisa memahami dari dasar javascript dan menjalakankannya tugas tersebut ada : Input biodata, Mencari rata-rata nilai, Looping print segitga, Spread operator untuk update data.
 
