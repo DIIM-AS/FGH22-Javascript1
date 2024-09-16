@@ -14,6 +14,6 @@ Membuat biodata menggunakan javascript dasar yang berisi array, object, array-ob
 Mengupdate beberapa object dan mengganti value dari beberapa key dari data yang sudah ada menggunakan javascript.
 
 
-##Authors
+## Authors
 
 - [Dimas S](https://github.com/DIIM-AS)
